@@ -1,13 +1,13 @@
 body {
   font: 100% Helvetica, sans-serif;
-  background-color: #e18036;
-  color: #f8f5f5;
+  background-color: #333333;
+  color: #ffffff;
 }
 
 .container {
   padding: 20px;
   margin: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
   border-radius: 10px;
 }
 
